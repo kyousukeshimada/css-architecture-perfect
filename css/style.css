@@ -1,0 +1,14 @@
+.header {
+  font-size: 12px;
+}
+@media screen and (max-width: 767px) {
+  .header {
+    font-size: 14px;
+  }
+}
+
+h1 {
+  color: blue;
+}
+
+/*# sourceMappingURL=style.css.map */
